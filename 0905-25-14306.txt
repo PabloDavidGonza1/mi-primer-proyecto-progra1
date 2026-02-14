@@ -1,0 +1,6 @@
+1. Aprendí el flujo de trabajo con Git y GitHub, creando repositorios, usando add, commit y push para guardar y subir cambios.
+
+2. Trabajé de forma individual, pero simulé el trabajo en pareja usando ramas. No tuve conflictos, y comprendí cómo se pueden resolver al editar el archivo y volver a hacer commit.
+
+3. Git permite llevar control de versiones, evitar la pérdida de archivos y facilita el trabajo en equipo en proyectos de programación.
+ 
